@@ -1,0 +1,1 @@
+// App router to all pages

@@ -1,0 +1,1 @@
+// Who We Are section with approved content and glow at bottom
