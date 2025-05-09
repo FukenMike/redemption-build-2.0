@@ -1,1 +1,0 @@
-// TailwindCSS config with dark mode and amber accents
