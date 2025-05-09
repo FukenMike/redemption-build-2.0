@@ -1,1 +1,1 @@
-// TailwindCSS config with dark mode and amber accents
+module.exports = { content: ['./src/**/*.{js,jsx,ts,tsx}'], theme: { extend: {} }, plugins: [] }
